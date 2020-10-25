@@ -3,3 +3,9 @@
 .welcome {
     color: chartreuse
 }
+
+.centered {
+   display: flex;
+   justify-content: center;
+
+}
